@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/richmondamponsah/richmondamponsah.github.io.git/static/css/main.bd83e197.css",
+    "main.js": "/richmondamponsah/richmondamponsah.github.io.git/static/js/main.456cdd45.js",
+    "static/media/me.png": "/richmondamponsah/richmondamponsah.github.io.git/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/richmondamponsah/richmondamponsah.github.io.git/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/portfolio5.png": "/richmondamponsah/richmondamponsah.github.io.git/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/richmondamponsah/richmondamponsah.github.io.git/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/techresumePDF.pdf": "/richmondamponsah/richmondamponsah.github.io.git/static/media/techresumePDF.0015e9089753cff9ef67.pdf",
+    "static/media/portfolio6.jpg": "/richmondamponsah/richmondamponsah.github.io.git/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/richmondamponsah/richmondamponsah.github.io.git/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/richmondamponsah/richmondamponsah.github.io.git/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/richmondamponsah/richmondamponsah.github.io.git/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/richmondamponsah/richmondamponsah.github.io.git/index.html",
+    "main.bd83e197.css.map": "/richmondamponsah/richmondamponsah.github.io.git/static/css/main.bd83e197.css.map",
+    "main.456cdd45.js.map": "/richmondamponsah/richmondamponsah.github.io.git/static/js/main.456cdd45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd83e197.css",
+    "static/js/main.456cdd45.js"
+  ]
+}
