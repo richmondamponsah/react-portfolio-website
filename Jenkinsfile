@@ -15,16 +15,6 @@ pipeline {
     stage('build') {
       steps {
         sh '''whoami
-
-
-
-
-
-
-
-
-
-
 date
 echo $PATH
 pwd
