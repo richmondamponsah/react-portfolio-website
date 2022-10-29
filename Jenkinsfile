@@ -14,6 +14,7 @@ date
 echo $PATH
 pwd
 ls -la
+npm install
 npm build'''
       }
     }
