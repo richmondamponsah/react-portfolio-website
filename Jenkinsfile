@@ -19,7 +19,7 @@ date
 echo $PATH
 pwd
 ls -la
-./gradlew build --info'''
+npm build'''
       }
     }
 
