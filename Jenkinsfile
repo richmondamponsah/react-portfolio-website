@@ -1,5 +1,11 @@
 pipeline {
-  agent any
+  agent {
+    docker {
+      image 'image \'node:lts-bullseye-slim\''
+      args 'args \'-p 3000:3000\''
+    }
+
+  }
   stages {
     stage('clone') {
       steps {
@@ -14,9 +20,7 @@ date
 echo $PATH
 pwd
 ls -la
-nodejs(nodeJSInstallationName: \'Node 19.0.0\', configId: \'<config-file-provider-id>\') {
-sh \'npm config ls
-'''
+sh \'npm install\''''
       }
     }
 
