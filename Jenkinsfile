@@ -14,8 +14,9 @@ date
 echo $PATH
 pwd
 ls -la
-npm install
-npm build'''
+nodejs(nodeJSInstallationName: \'Node 19.0.0\', configId: \'<config-file-provider-id>\') {
+sh \'npm config ls
+'''
       }
     }
 
